@@ -1,4 +1,4 @@
 #MeinTagebuch
 
-Erstes Remote-Änderung
+Erste Remote-Änderung
 
